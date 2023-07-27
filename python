@@ -7,7 +7,7 @@ print("good luck",name)
 words = ["computer","laptop","mouse","keyboard","desktop","windows"]
 
 word = random.choice(words)
-#print(word)
+
 
 print("guess the character")
 
